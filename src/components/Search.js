@@ -1,7 +1,6 @@
-import React from 'react';
+// import components
+import CountryDropdown from "../components/CountryDropdown";
 
-const Search = () => {
-  return <div>Search</div>;
+export const Search = () => {
+  return <div className="border-2 border-red-700">Search</div>;
 };
-
-export default Search;
