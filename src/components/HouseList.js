@@ -1,7 +1,3 @@
-import React from 'react';
-
-const HouseList = () => {
+export const HouseList = () => {
   return <div>HouseList</div>;
 };
-
-export default HouseList;
